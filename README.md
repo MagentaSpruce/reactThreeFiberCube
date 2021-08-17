@@ -1,7 +1,7 @@
 # Getting Started with React Three Fiber
 
 1) run npx create-react-app app
-2) run npm install three three-react-three-fiber
+2) run npm install three react-three-fiber
 3) Handle the imports:
 ```React
 import React from "react";
